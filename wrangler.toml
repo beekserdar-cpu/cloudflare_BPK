@@ -1,0 +1,7 @@
+name = "beekpsychokliniek"
+compatibility_date = "2026-04-29"
+pages_build_output_dir = "."
+
+[[send_email]]
+name = "CONTACT_EMAIL"
+destination_address = "drrahim@live.be"
